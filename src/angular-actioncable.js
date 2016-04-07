@@ -1,4 +1,5 @@
-var ngActionCable = angular.module('ngActionCable',[]);
+var ngActionCable = angular.module('ngActionCable',['ngWebSocket']);
+
 
 
 //default websocket configs
